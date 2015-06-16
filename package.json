@@ -14,11 +14,11 @@
   },
   "license": "BSD",
   "dependencies": {
-    "jshint": "~2.5.1",
     "optimist": "~0.6.0",
     "underscore": "~1.4.4"
   },
   "peerDependencies": {
+    "jshint": "*",
     "coffee-script": ">= 1.6 <= 1.8.0"
   },
   "devDependencies": {
